@@ -2,11 +2,13 @@ public class Math {
     public static void main(String[] args) {
         int a=5;
         int b=10;
+        int c=20;
         int sum=a+b;
         int times=a*b;
         int minus=b-a;
         int divide= b/a;
-        int mod= b/a
+        int mod= b/a;
+        int sum=a+b+c;
 
         System.out.println(sum);
         System.out.println(times);
