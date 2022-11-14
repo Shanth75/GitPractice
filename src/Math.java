@@ -7,7 +7,7 @@ public class Math {
         int times=a*b;
         int minus=b-a;
         int divide= b/a;
-        int mod= b/a;
+
         int sum=a+b+c;
 
         System.out.println(sum);
