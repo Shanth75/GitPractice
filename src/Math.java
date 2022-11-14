@@ -5,9 +5,11 @@ public class Math {
         int sum=a+b;
         int times=a*b;
         int minus=b-a;
+        int divide= b/a;
 
         System.out.println(sum);
         System.out.println(times);
         System.out.println(minus);
+        System.out.println(divide);
     }
 }
